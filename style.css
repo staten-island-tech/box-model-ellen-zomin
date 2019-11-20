@@ -1,0 +1,11 @@
+html{
+    font-size: 62.5%;
+}
+div{
+    background-image: url(media/cruise.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 10rem;
+}
