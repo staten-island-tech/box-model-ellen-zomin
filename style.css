@@ -1,11 +1,29 @@
 html{
     font-size: 62.5%;
+    font-family: 'Calistoga', cursive;
 }
 div{
-    background-image: url(media/cruise.jpg);
+    background-color: #03A9F4;
     height: 100vh;
+    text-align: center;
+    font-size: 4rem;
     background-size: cover;
     background-repeat: no-repeat;
-    text-align: center;
-    font-size: 10rem;
 }
+.nemo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.list{
+    list-style-type: none;
+}
+h2{
+    position: absolute;
+    left: 30rem;
+    top: 40rem;
+    
+}
+
+   
